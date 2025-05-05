@@ -1,3 +1,5 @@
 field,display_name,btn,hidden,sort_name
-creator,Creator,
-subject,,true
+ date,Date,,,Date
+ creator,Creator,,,
+ subject,,true
+ location,,false
