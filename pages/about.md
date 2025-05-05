@@ -2,16 +2,15 @@
 title: Meet Fynn!
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
 {% include feature/jumbotron.html objectid="https://suiteheartts.carrd.co/assets/images/image02.png?v=6fda951f" %}
 
 {% include feature/nav-menu.html sections="About Fynn!;Where Can I Find Him?" %}
 ## About Fynn!
+
 
 {% include feature/image.html objectid="https://suiteheartts.carrd.co/assets/images/image04.jpg?v=6fda951f" width="25" alt="Fynn posing with his favorite iced coffee" %}
 
