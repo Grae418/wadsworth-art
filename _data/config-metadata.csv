@@ -9,7 +9,7 @@ format,Format,
 worktype, Artwork Type
 material, Material or Application Used
 technique, Technique Used
-specificsubjects, Specific Subjects
+specificsubjects, Specific Subjects, true
 subjectnames, Named Subjects 
 specificsubjectsources, Information Source
 rights,Rights,
