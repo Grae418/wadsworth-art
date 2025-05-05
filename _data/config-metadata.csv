@@ -6,11 +6,11 @@ subject,Subjects,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
 worktype, Artwork Type
 material, Material or Application Used
 technique, Technique Used
 specificsubjects, Specific Subjects
-specificsubjectsources, Subject Sources
 subjectnames, Named Subjects 
+specificsubjectsources, Information Source
+rights,Rights,
+rightsstatement,Rights Statement,,true
