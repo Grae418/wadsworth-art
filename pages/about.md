@@ -9,8 +9,6 @@ credits: false
 {% include feature/jumbotron.html objectid="https://ih0.redbubble.net/cover.7213204.2400x600.jpg" %}
 
 {% include feature/nav-menu.html sections="About Fynn!;Where Can I Find Him?" %}
-
-
 ## About Fynn!
 <br>
 
@@ -22,7 +20,6 @@ I’m a multi-media artist and writer from Iowa. My work is inspired by both the
 "I work in everything from textiles to printmaking, but my main love is illustration and graphic novels! I have a handful of self-published works under my belt, including “Tulips and Pansies: An Illustrated Queer History of Central College” and “Unlikely Friends”."
 
 ---
-
 ## Where Can I Find Him?
 <br>
 
