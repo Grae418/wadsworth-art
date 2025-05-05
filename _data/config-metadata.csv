@@ -13,3 +13,11 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+creatorrole, Creator's Role
+classificationterms, Artwork Classification
+worktype, Artwork Type
+material, Material or Application Used
+technique, Technique Used
+specificsubjects, Specific Subjects
+specificsubjectsources, Source Identifying Subjects
+subjectnames, Named Subjects 
