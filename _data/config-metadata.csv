@@ -6,6 +6,7 @@ subject,Subjects,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+classificationterms, Art Style
 worktype, Artwork Type
 material, Material or Application Used
 technique, Technique Used
