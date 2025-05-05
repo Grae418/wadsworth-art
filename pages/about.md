@@ -21,6 +21,7 @@ I’m a multi-media artist and writer from Iowa. My work is inspired by both the
 
 "I work in everything from textiles to printmaking, but my main love is illustration and graphic novels! I have a handful of self-published works under my belt, including “Tulips and Pansies: An Illustrated Queer History of Central College” and “Unlikely Friends”."
 
+---
 
 ## Where Can I Find Him?
 <br>
