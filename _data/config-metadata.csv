@@ -4,14 +4,14 @@ creator,Creator,
 date,Date Created,
 subject,Subjects,true
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-classificationterms, Art Style,
-worktype, Artwork Type,
-material, Material or Application Used,
+type,Type,true
+format,Format,true
+classificationterms, Art Style,true
+worktype, Artwork Type,true
+material, Material or Application Used,true
 technique, Technique Used,
-specificsubjects, Specific Subjects, true
-subjectnames, Named Subjects, 
-specificsubjectsources, Information Source,
+specificsubjects,Specific Subjects,true
+subjectnames,Named Subjects,true
+specificsubjectsources,Information Source,
 rights,Rights,
 rightsstatement,Rights Statement,,true
