@@ -1,5 +1,6 @@
 field,display_name
 title,Title
 date,Date
-description,Description
+dimensions,Dimensions
 subject,Subjects
+specificsubjects,Specific Subjects
