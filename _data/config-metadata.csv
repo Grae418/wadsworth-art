@@ -7,9 +7,9 @@ identifier,Source Identifier,,
 type,Type,true
 format,Format,true
 classificationterms, Art Style,true
-worktype, Artwork Type,true
-material, Material or Application Used,true
-technique, Technique Used,
+worktype,Artwork Type,true
+material,Material or Application Used,true
+technique,Technique Used,true
 specificsubjects,Specific Subjects,true
 subjectnames,Named Subjects,true
 specificsubjectsources,Information Source,
