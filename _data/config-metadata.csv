@@ -12,6 +12,6 @@ material,Material or Application Used,true
 technique,Technique Used,true
 specificsubjects,Specific Subjects,true
 subjectnames,Named Subjects,true
-specificsubjectsources,Information Source,
+specificsubjectsources,Information Source,,true
 rights,Rights,
 rightsstatement,Rights Statement,,true
