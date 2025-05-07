@@ -8,3 +8,4 @@ location,true,false
 classificationterms,true,true
 specificsubjects,true,true
 material,true,true
+technique,true,true
